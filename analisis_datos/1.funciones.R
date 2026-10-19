@@ -1,0 +1,2 @@
+# FUNCIONES AUXILIARES: ANÁLISIS DE DATOS 
+#No use function
